@@ -25,5 +25,3 @@ I'm currently exploring Android Development.
 Open to collaboration on projects related to Android Development.
 
 
-This README was created with ❤️ by Jandyz.
-
